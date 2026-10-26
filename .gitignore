@@ -1,0 +1,8 @@
+# Сессия Kwork (cookies залогиненного аккаунта) — никогда не коммитить
+.browser_profile/
+# Токен и chat_id Telegram-бота
+.env
+# База наблюдений и отчёты
+data/
+__pycache__/
+*.pyc
